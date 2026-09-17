@@ -9,4 +9,4 @@ integrations, e-invoicing, and agents that work with dispatchers instead of arou
 
 Python · Django · FastAPI · PostgreSQL/PostGIS · React/TypeScript · LLM agents (Claude, OpenAI) · AWS
 
-Contact: rucinpk@gmail.com
+Contact: [LinkedIn](https://www.linkedin.com/in/patrykrucinski/) · rucinpk@gmail.com

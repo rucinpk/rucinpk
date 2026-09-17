@@ -1,5 +1,6 @@
 I build AI and operations software for road transport in the EU: a multi-company TMS, freight-exchange and telematics
 integrations, e-invoicing, and agents that work with dispatchers instead of around them.
+Available for senior contract work — US or European hours.
 
 **Open source**
 
